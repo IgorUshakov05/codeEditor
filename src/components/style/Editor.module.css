@@ -1,0 +1,12 @@
+
+.EditorPlace {
+    margin-top: 20px;
+    position: relative;
+    height: 60vh;
+}
+
+.panel {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}

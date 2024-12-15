@@ -1,0 +1,33 @@
+.headText {
+  font-size: 25px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  margin-top: 20px;
+}
+code {
+    font-weight: 400;
+}
+.mainDiv {
+    height: fit-conten;
+    overflow: hidden;
+}
+
+.article {
+  background-color: #cfe2ff;
+  padding: 20px 15px;
+  border-radius: 4px;
+  margin-top: 10px;
+  border-color: #b6d4fe;
+  border: 1px solid transparent;
+}
+
+.articleText {
+  color: #084298;
+  font-size: 16px;
+  font-weight: 500;
+}
